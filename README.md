@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*oHwW14arOJOAy7Pm.gif)](https://github.com/Umang-Ojha)
+[![MasterHead]([https://miro.medium.com/max/1400/0*oHwW14arOJOAy7Pm.gif](https://im4.ezgif.com/tmp/ezgif-4-614f465849.gif))](https://github.com/Umang-Ojha)
 <h1 align="center">Hi 👋, I'm Umang Ojha</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://swisscognitive.ch/wp-content/uploads/2019/10/giphy.gif">
